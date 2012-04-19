@@ -2,7 +2,7 @@ A port of https://github.com/collision/monospace-rails to Padrino. It uses a bun
 accomplish things. It was primarily written as a test app to put (Garry)[http://github.com/bookworm/garry] through its
 paces.  
 
-In the future I plan to write some docs, but have fun playing around with it anyway. It's fully functional and you should be able to run it now problem.
+In the future I plan to write some docs, but have fun playing around with it anyway. It's fully functional and you should be able to run it no problem.
 
 # Instructions (wip)       
 
