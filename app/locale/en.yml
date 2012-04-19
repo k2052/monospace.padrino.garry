@@ -1,0 +1,7 @@
+en:
+  responder:
+    messages:
+      accounts:
+        destroy: "Account has been successfully deleted."
+        create: "Account has been successfully created."
+        update: "Account has been successfully updated."
