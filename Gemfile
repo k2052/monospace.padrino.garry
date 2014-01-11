@@ -11,7 +11,6 @@ gem 'sinatra-flash', :require => 'sinatra/flash'
 gem 'slim'       
 gem 'stripe'
 gem 'padrino-csrf', :git => 'git://github.com/bookworm/padrino-csrf.git'
-gem 'airbrake'  
 gem 'garry', :git => 'git://github.com/bookworm/garry.git'      
 
 # DB           
@@ -41,4 +40,4 @@ group :test do
 end
 
 # Or Padrino Edge
-gem 'padrino',  :git => 'git://github.com/bookworm/padrino-framework.git'
+gem 'padrino'
